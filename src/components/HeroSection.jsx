@@ -56,7 +56,7 @@ export const HeroSection = () => {
 
             {/* Download CV Button */}
             <a
-              href=".\public\projects\Moksh_Goswami.pdf"
+              href="/public/projects\Moksh_Goswami.pdf"
               target="_blank"
               className="px-8 py-3 text-lg font-medium rounded-full border border-primary text-primary 
                shadow-md hover:shadow-lg hover:scale-105 
